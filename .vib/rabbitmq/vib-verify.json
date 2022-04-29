@@ -13,6 +13,13 @@
         "resources": {
           "path": "/bitnami/rabbitmq",
           "url": "{SHA_ARCHIVE}"
+        },
+        "runtime_parameters": "ImF1dGgiOgogICJlcmxhbmdDb29raWUiOiAiUmpzcENDM25tNGtMdjRMaldGTmZGSFczeEx4Yjd6VEMiCiAgInBhc3N3b3JkIjogIlBIVkhkcXpyTWI5cyIKICAidXNlcm5hbWUiOiAidXNlciIKInNlcnZpY2UiOgogICJwb3J0cyI6CiAgICAibWFuYWdlciI6IDgwCiAgInR5cGUiOiAiTG9hZEJhbGFuY2VyIgo=",
+        "target_platform": {
+          "size": {
+            "name": "S4"
+          },
+          "target_platform_id": "{VIB_ENV_TARGET_PLATFORM}"
         }
       }
     },
